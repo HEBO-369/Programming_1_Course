@@ -31,9 +31,6 @@ This lab focuses on applying loop constructs to solve real programming problems 
      - A value `x` (in degrees)
      - A value `N` (number of terms)
    - Then computes the sine of `x` by summing the first `N` terms of its Taylor series expansion:
-     \[
-     \sin(x) ≈ \sum_{k=0}^{N-1} \frac{(-1)^k \cdot x^{2k+1}}{(2k+1)!}
-     \]
    - The value of `x` should be converted from degrees to radians before computation.
 
 ---
